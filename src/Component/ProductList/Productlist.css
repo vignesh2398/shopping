@@ -1,0 +1,27 @@
+.ProductList{
+background-color:rgb(214, 231, 245);
+margin: 10px;
+padding:10px;
+border:1px solid #ccc;
+justify-content: space-between;
+
+align-content: center;
+
+} 
+.list-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.title-section>input{
+    margin-left: 5px;
+}
+.title-section>span{
+    margin-left: 5px;
+}
