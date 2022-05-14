@@ -22,4 +22,6 @@ margin-top: 5px;
     height: 100px;
     
   }
-  
+  .card-wrapper:hover{
+    transform: scale(1.1);
+  }
